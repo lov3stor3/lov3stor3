@@ -2,7 +2,7 @@
 # Copyright (C) 2017 Mirumee Software
 # This file is distributed under the same license as the Saleor package.
 # Mirumee Software <hello@mirumee.com>, 2017.
-# 
+#
 # Translators:
 # Paul-Sebastian Manole <brokenthorn@gmail.com>, 2019
 # Tudor C <tudorxyz@yahoo.com>, 2019
@@ -10,7 +10,7 @@
 # Tiberiu Ichim <tiberiu.ichim@gmail.com>, 2019
 # Delia Cosma <deliacosma79@gmail.com>, 2019
 # Daniel Rogozan <rogodani@gmail.com>, 2019
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -1192,7 +1192,7 @@ msgstr "stoc epuizat"
 #: saleor/product/filters.py:13
 msgctxt "Product list sorting option"
 msgid "name"
-msgstr "nume"
+msgstr "Nume"
 
 #: saleor/product/filters.py:14
 msgctxt "Product list sorting option"
@@ -1202,7 +1202,7 @@ msgstr "Preț"
 #: saleor/product/filters.py:15
 msgctxt "Product list sorting option"
 msgid "last updated"
-msgstr "ultima actualizare"
+msgstr "Ultima actualizare"
 
 #: saleor/product/filters.py:22
 msgctxt "Product list sorting form"
@@ -2052,17 +2052,17 @@ msgstr "Verifică"
 #: templates/checkout/index.html:84
 msgctxt "checkout page: secondary action, empty the checkout"
 msgid "Clear cart"
-msgstr "Cărucior gol"
+msgstr "Golește căruciorul"
 
 #: templates/checkout/index.html:91 templates/checkout_dropdown.html:62
 msgctxt "Empty checkout message"
 msgid "There are no products in your shopping cart."
-msgstr "Nu exista produse în coșul de cumpărături."
+msgstr "Nu există produse în coșul de cumpărături."
 
 #: templates/checkout/index.html:92 templates/checkout_dropdown.html:67
 msgctxt "Empty checkout link"
 msgid "Check out our sales"
-msgstr "Verificați vânzările noastre"
+msgstr "Către produsele noastre"
 
 #: templates/checkout/login.html:6
 msgctxt "Checkout login page title"
@@ -6157,7 +6157,7 @@ msgstr ""
 #: templates/product/_filters.html:46
 msgctxt "Product price filter"
 msgid "from"
-msgstr "din"
+msgstr "de"
 
 #: templates/product/_filters.html:48
 msgctxt "Product price filter"
@@ -6172,7 +6172,7 @@ msgstr "Ștergeți filtrele"
 #: templates/product/_filters.html:59
 msgctxt "Apply filters button"
 msgid "Update results"
-msgstr ""
+msgstr "Aplică Filtrele"
 
 #. Translators: Layout may break if character length is different than four.
 #: templates/product/_items.html:30
@@ -6183,7 +6183,7 @@ msgstr "Vânzare"
 #: templates/product/_price_range.html:6
 msgctxt "product price range"
 msgid "from"
-msgstr "din"
+msgstr "de"
 
 #: templates/product/details.html:63
 #, python-format
@@ -6263,7 +6263,7 @@ msgstr "Ne pare rău, nu s-a găsit niciun rezultat pentru solicitarea dvs."
 #: templates/search/results.html:35
 msgctxt "Search without results text"
 msgid "Try again or shop new arrivals."
-msgstr "Încercați din nou sau cumpărați noi sosiri."
+msgstr "Încercați din nou."
 
 #: templates/search/results.html:32
 msgid "Search:"
