@@ -60,12 +60,11 @@ DATABASES = {
 }
 
 
-TIME_ZONE = "Europe/Bucharest"
+TIME_ZONE = "America/Chicago"
 LANGUAGE_CODE = "ro"
 LANGUAGES = [
     ("en", _("English")),
     ("ro", _("Romanian")),
-
 ]
 LOCALE_PATHS = [os.path.join(PROJECT_ROOT, "locale")]
 USE_I18N = True
