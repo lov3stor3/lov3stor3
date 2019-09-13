@@ -12,9 +12,9 @@ def create_default_site(apps, schema_editor):
     SiteSettings.objects.get_or_create(
         pk=settings_id,
         defaults={
-            "name": "Saleor e-commerce",
-            "header_text": "Test Saleor - a sample shop!",
-            "domain": "localhost:8000",
+            "name": "lovestore.ro - haine de dame",
+            "header_text": "See it, Love it, Own it!",
+            "domain": "lovestore.ro",
         },
     )
 
